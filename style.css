@@ -1,0 +1,44 @@
+body {
+    background-image: url(./範例素材/bg.png);
+    font-family: Arial, Helvetica, "微軟正黑體", sans-serif;
+
+}
+
+div.Abox {
+    background-color: #ffffff;
+    width: 1200px;
+    margin: auto;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: rgba(165, 37, 37, 0.914);
+
+    border: #cacaca 4px solid;
+    border-radius: 10em;
+    margin-top: 0;
+}
+
+h2 {
+    padding-left: 10px;
+    border-left: #1fb159 20px solid;
+}
+
+li {
+    background-color: #f7eebd;
+    width: 300px;
+    height: 380px;
+    padding: 20px 15px;
+    margin: 25px;
+    float: left;
+}
+
+li:hover {
+    box-shadow: #000 5px 5px 20px;
+}
+
+
+h4 {
+    text-align: center;
+}
